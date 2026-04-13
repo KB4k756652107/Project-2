@@ -29,7 +29,7 @@ def swap_turn(player):
 def win_state(current_board):
     for i in [1, 3, 4]:
         for a in range(3):
-            if (current_board[a*(3//i)+(a%2)*(i//4)*2] + current_board[a*(3//i)+1*i] + current_board[a*(3//i)+2*i+(a%2)*(i//4)*(-2)]) == (p1_p2 * 3):
+            if (f"{current_board[a*(3//i)+(a%2)*(i//4)*2]}{current_board[a*(3//i)+1*i]}{current_board[a*(3//i)+2*i+(a%2)*(i//4)*(-2)]}") == (p1_p2 * 3):
                 if board_num != 0:
                     main_board()[tile(board_num)] = p1_p2
                 return True
@@ -46,7 +46,7 @@ def board_state(current_tile):
 def pick_tile(action):
     gap = " "*29
     response = input(f"{gap + action}:\n{gap}     1 2 3\n{gap}     4 5 6\n{gap}     7 8 9\n{gap + " "*7}")
-    print('\033c')
+    p.clear()
     if (response.isdigit()) and (int(response) > 0) and (int(response) < 10):
         if (board_state(board()[tile(int(response))]) == p1_p2):
             p.clear()
