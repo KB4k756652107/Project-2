@@ -20,7 +20,7 @@ How to play:
 
     Board completed by O: O
 
-    Board ends in a draw: —
+    Board ends in a draw: –
 
 ![UTT - board states](https://github.com/user-attachments/assets/d1637ce0-857e-4efd-b4d8-34bacb782343)
 
