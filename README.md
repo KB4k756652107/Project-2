@@ -16,6 +16,12 @@ How to play:
 
 4. To complete a board, it's the classic Tic-Tac-Toe rules: get 3 in a row, column, or diagonal to secure the board.
 
+Board completed by X: X
+
+Board completed by O: O
+
+Board ends in a draw: -
+
 ![UTT - board states](https://github.com/user-attachments/assets/d1637ce0-857e-4efd-b4d8-34bacb782343)
 
 
