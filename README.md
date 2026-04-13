@@ -12,14 +12,14 @@ How to play:
 ![UTT - wild move](https://github.com/user-attachments/assets/448b63a7-954b-4f84-8d07-fe8902d5cc9a)
 
 
-4. To complete a board, it's the classic Tic-Tac-Toe rules: get 3 in a row, column, or diagonal to secure the board.
+5. To complete a board, it's the classic Tic-Tac-Toe rules: get 3 in a row, column, or diagonal to secure the board.
     Board completed by X: X
     Board completed by O: O
     Board ends in draw: -
 ![UTT - board states](https://github.com/user-attachments/assets/d1637ce0-857e-4efd-b4d8-34bacb782343)
 
 
-5. To win the game, a player needs to complete 3 sub-baords in a row, column, or diagonal.
+6. To win the game, a player needs to complete 3 sub-baords in a row, column, or diagonal.
 ![UTT - win state](https://github.com/user-attachments/assets/d3ba2bd8-ca4a-4ce7-b9be-89857662be6d)
 
 
