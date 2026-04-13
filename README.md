@@ -25,23 +25,27 @@ The UTT board is made up of 9 sub-boards contained in 1 main board. The first pl
     Board ends in a draw: –  
 
 ![UTT - board states](https://github.com/user-attachments/assets/d1637ce0-857e-4efd-b4d8-34bacb782343)
-
-
+\
+\
+\
 **5. To win the game, a player needs to complete 3 sub-baords in a row, column, or diagonal.**  
 
 ![UTT - win state](https://github.com/user-attachments/assets/d3ba2bd8-ca4a-4ce7-b9be-89857662be6d)
-
-
+\
+\
+\
 **6. If neither player gets 3 sub-baord completions in a row, column, or diagonal, it ends in a draw.**  
 
 ![UTT - draw state](https://github.com/user-attachments/assets/69480024-209b-4ad6-9120-288e3faf8a2b)
-
-
+\
+\
+\
 **7. To play again, enter [Y].**  
 
 ![UTT - reset game](https://github.com/user-attachments/assets/397d3352-7ac9-4f05-b8b6-46aee9f723ef)
-
-
+\
+\
+\
 It has occurred to me that this version doesn't have the reset mechanic so that you can play endlessly without constantly rerunning the program.
 
 UPDATE: There is now a reset mechanic so that you don't have to rerun the program after finishing a game of UTT.
