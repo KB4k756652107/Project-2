@@ -58,5 +58,4 @@ UPDATE: There is now a reset mechanic so that you don't have to rerun the progra
 This game is currently a work-in-progress and only contains a crude combat system with only attacks and stat bars.
 
 ---
-![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7055a521-5dbf-40f7-b25b-ba69109134b6)
-
+![2026-04-1301-00-38-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1bf1ac73-4b05-4ac8-aaa7-94711447f53d)
