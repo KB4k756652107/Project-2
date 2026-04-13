@@ -45,10 +45,10 @@ The UTT board is made up of 9 sub-boards contained in 1 main board. The first pl
 
 ---
 ![UTT - reset game](https://github.com/user-attachments/assets/397d3352-7ac9-4f05-b8b6-46aee9f723ef)  
-\
-\
+
+---
 It has occurred to me that this version doesn't have the reset mechanic so that you can play endlessly without constantly rerunning the program.
 
 UPDATE: There is now a reset mechanic so that you don't have to rerun the program after finishing a game of UTT.
 
-
+---
