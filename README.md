@@ -52,3 +52,7 @@ It has occurred to me that this version doesn't have the reset mechanic so that 
 UPDATE: There is now a reset mechanic so that you don't have to rerun the program after finishing a game of UTT.
 
 ---
+
+# Welcome to Dungeon Game
+
+This game is currently a work-in-progress and only contains a crude combat system with only attacks
