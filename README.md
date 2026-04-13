@@ -8,7 +8,7 @@ The UTT board is made up of 9 sub-boards contained in 1 main board. The first pl
 
 ![UTT-boardselect-ezgif com-resize](https://github.com/user-attachments/assets/d31e83ad-70a1-497c-bbb2-2adc8b5ae478)  
 \
-\
+###
 \
  **3. If the current board shifts to a completed board, it becomes a wild move for the next player, enabling them to choose any board to play on, going back to entry 1 of 'How to Play'.**  
 
