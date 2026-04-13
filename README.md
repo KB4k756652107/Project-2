@@ -35,4 +35,10 @@ How to play:
 ![UTT - draw state](https://github.com/user-attachments/assets/69480024-209b-4ad6-9120-288e3faf8a2b)
 
 
+7. To play again, enter [Y].
+
+![UTT - reset game](https://github.com/user-attachments/assets/53119037-511b-4870-bd2b-0193df241f57)
+
+
 It has occurred to me that this version doesn't have the reset mechanic so that you can play endlessly without constantly rerunning the program.
+UPDATE: There is now a reset mechanic so that you don't have to rerun the program after finishing a game of UTT.
