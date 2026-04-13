@@ -55,4 +55,8 @@ UPDATE: There is now a reset mechanic so that you don't have to rerun the progra
 
 # Welcome to Dungeon Game
 
-This game is currently a work-in-progress and only contains a crude combat system with only attacks
+This game is currently a work-in-progress and only contains a crude combat system with only attacks.
+
+---
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7055a521-5dbf-40f7-b25b-ba69109134b6)
+
