@@ -50,4 +50,8 @@ It has occurred to me that this version doesn't have the reset mechanic so that 
 
 UPDATE: There is now a reset mechanic so that you don't have to rerun the program after finishing a game of UTT.
 
---
+---
+
+***
+
+___
