@@ -30,7 +30,7 @@ How to play:
 ![UTT - win state](https://github.com/user-attachments/assets/d3ba2bd8-ca4a-4ce7-b9be-89857662be6d)
 
 
-6. If neither player gets 3 sub-baord completions in a row, colunm, or diagonal, it ends in a draw.
+6. If neither player gets 3 sub-baord completions in a row, column, or diagonal, it ends in a draw.
 
 ![UTT - draw state](https://github.com/user-attachments/assets/69480024-209b-4ad6-9120-288e3faf8a2b)
 
