@@ -37,7 +37,7 @@ How to play:
 
 7. To play again, enter [Y].
 
-![UTT - reset game](https://github.com/user-attachments/assets/53119037-511b-4870-bd2b-0193df241f57)
+![UTT - reset game](https://github.com/user-attachments/assets/9907a43b-969a-479f-ad61-30905ecc5b11)
 
 
 It has occurred to me that this version doesn't have the reset mechanic so that you can play endlessly without constantly rerunning the program.
