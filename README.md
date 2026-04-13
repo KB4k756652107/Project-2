@@ -1,4 +1,4 @@
-# **Welcome to Ultimate Tic-Tac-Toe (UTT)**
+# _Welcome to Ultimate Tic-Tac-Toe (UTT)_
 
 The UTT board is made up of 9 sub-boards contained in 1 main board. The first player to get 3 sub-board completions in a row, column, or diagonal wins the game.
 
