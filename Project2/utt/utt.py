@@ -14,7 +14,7 @@ def main_board():
     return boards["board0"]
 
 def board():
-    return boards["board" + str(board_num)]
+    return boards[f"board{board_num}"]
 
 def tile(tile_index):
     return tile_index-1
