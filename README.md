@@ -4,5 +4,4 @@ The UTT board is made up of 9 sub-boards contained in 1 main board. The first pl
 
 How to play:
 1. Enter a number from 1 - 9 to select an available board to play on, denoted by a square surrounding the board.
-
 2. 2
